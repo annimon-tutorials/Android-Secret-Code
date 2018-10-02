@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Secret Code</string>
+    <string name="code_hint">Введите этот код в наборе номера:\n<b>*#*#3228#*#*</b></string>
+    <string name="top_secret">СОВЕРШЕННО\nСЕКРЕТНО</string>
+</resources>
